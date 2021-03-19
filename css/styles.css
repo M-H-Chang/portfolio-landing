@@ -15,6 +15,10 @@ ol {
   display: block;
 }
 
+span {
+  color: red;
+}
+
 .heading {
   text-align: center;
   border: solid white 2px;
