@@ -13,7 +13,7 @@
 
 ## Description
 
-_This webpage shows what Min has done so far in his career. With past experiences and about me's you can explore what kind of an individual Min is in order to figure out if you want to give him an opportunity._
+_This webpage shows what Min has done so far in his career. With past experiences and about me's you can explore what kind of an individual Min is in order to figure out if you want to give him an opportunity. You can access you page here: https://m-h-chang.github.io/portfolio-landing/ _
 
 ## Setup/Installation Requirements
 
