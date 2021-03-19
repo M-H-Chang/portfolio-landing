@@ -9,6 +9,11 @@ img {
   height: 250px;
   float: right;
   object-fit: cover;
+  display: flex;
+}
+
+ol {
+  display: block;
 }
 
 .heading {
@@ -24,6 +29,10 @@ img {
   background-color: white;
   }
 
+#profpic {
+  width: 150;
+  height: 250px;
+}
 #ibackground {
   background-color: bisque;
 }
